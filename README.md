@@ -1,6 +1,6 @@
-<img width="1342" height="725" alt="Screenshot 2026-03-13 010347" src="https://github.com/user-attachments/assets/80b2ab3c-e184-4d61-bab3-1ab7049c4fe8" />
 # Customer_Behavior_Analysis
 “Built an end-to-end data analytics pipeline using Python, SQL, and Power BI to transform raw data into actionable insights.
+
 📌 Project Description
 
 This is my first data analysis project where I analyzed a dataset to find useful insights. In this project I performed data cleaning, data analysis, and visualization using Python, SQL, and Power BI.
@@ -38,3 +38,6 @@ Add more advanced analysis
 Improve dashboard visualization
 Work on larger datasets
 
+#DashBoard
+
+<img width="800" height="300" alt="Screenshot 2026-03-13 010347" src="https://github.com/user-attachments/assets/80b2ab3c-e184-4d61-bab3-1ab7049c4fe8" />
